@@ -18,6 +18,7 @@ export {
   store,
   carsReducer,
   addCar,
+  removeCar,
   changeSearchTerm,
   formReducer,
   changeName,
